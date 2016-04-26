@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="slow calculator" timestamp="2016-04-26T03:26:10" hostname="localhost" time="8.602" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="slow calculator" name="should add numbers" time="2.677" />
+ </testsuite>
+ <testsuite name="slow calculator.memory" timestamp="2016-04-26T03:26:12" hostname="localhost" time="5.922" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="slow calculator.memory" name="should start out with an empty memory" time="1.068" />
+  <testcase classname="slow calculator.memory" name="should fill the memory with past results" time="4.851" />
+ </testsuite>
+</testsuites>

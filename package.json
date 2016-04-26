@@ -13,10 +13,13 @@
   },
   "dependencies": {
     "express": "~3.4.0",
-    "protractor": "2.1.0",
+    "protractor": "3.1.0",
     "mkdirp": "~0.3.5",
     "q": "1.0.0",
-    "firefox-profile": "0.3.4"
+    "firefox-profile": "0.3.4",
+    "protractor-jasmine2-html-reporter": "0.0.6",
+    "jasmine-reporters": "2.1.1",
+    "jasmine-spec-reporter": "2.4.0"
   },
   "license": "MIT"
 }
