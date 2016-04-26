@@ -13,7 +13,7 @@ describe('slow calculator', function () {
         element(by.id('gobutton')).click();
 
         // Why does not output the result? How could we fix it?
-        console.log('The result is: ' + result.getText());
+        console.log('The result is: ', result.getText());
 
         expect(element(by.binding('latest')).getText()).toEqual('9');
     });
