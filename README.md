@@ -6,7 +6,6 @@ Demo test application and protractor tests.
 Setup
 -----
 
-    git clone ssh://git@mucsggit01:7999/web-portal/protractor-demo.git
     cd protractor-demo
     npm install
 
