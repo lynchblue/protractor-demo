@@ -2,10 +2,11 @@ protractor-demo
 ===============
 
 Demo test application and protractor tests.
+Based and forked from https://github.com/juliemr/protractor-demo
 
 Setup
 -----
-
+    git clone git@github.com:lynchblue/protractor-demo.git
     cd protractor-demo
     npm install
 
